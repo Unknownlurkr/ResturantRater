@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "878015441233",
+    "project_id": "resturantrater-77313",
+    "storage_bucket": "resturantrater-77313.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878015441233:android:c6214d379cd6cfd2824b70",
+        "android_client_info": {
+          "package_name": "com.example.resturantrater"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "878015441233-a200obpq7l8iqjbtm7vrq8qil3i8c2k0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC_Yxjie5-SJOQnvVnPSI2a6oq21w4j-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "878015441233-a200obpq7l8iqjbtm7vrq8qil3i8c2k0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
